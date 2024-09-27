@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Omarakan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Support Me With Paypal:  paypal.me/louydpro1
+🎨 Discord Manager & Designer & Model Designer On CS1.6
+🛠️ Creator of Custom Packs & Emojis
+💻 Name: Omar ( Discord : louydpro )
+📈 Always striving for creativity and excellence!
 
 <!---
 Omarakan/Omarakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
